@@ -1,0 +1,11 @@
+{
+  "name": "ebanx-takehome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ecaramba/ebanx-takkehome.git",
+  "author": "Edir <ecaramba@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
